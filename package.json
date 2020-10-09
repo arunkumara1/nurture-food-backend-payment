@@ -4,7 +4,7 @@
   "description": "foodapp backend",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js localhost 8080"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "cors": "2.8.4",
